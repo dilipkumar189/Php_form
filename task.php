@@ -8,71 +8,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/form.css">
     <title>task</title>
-    <style>
-        body {
-            margin: 0px 0px;
-            background-image: url(img/cn.jpg);
-            background-size: cover;
-        }
-
-        form {
-            /* align-items: center; */
-            margin: -10% 20% 20% 20%;
-        }
-        
-        table {
-            width: 100%;
-            height: 100%;
-            margin: -8% 0%;
-            /* border: 2px solid rgb(171 143 143); */
-            border-radius: 5px;
-            border-collapse: collapse;
-        }
-
-        label {
-            font-size: 20px;
-            margin: 5px 5px;
-
-        }
-
-        input {
-            height: 18px;
-            /* width: 30px; */
-        }
-
-        td {
-            padding: 20px 20px;
-            /* border: 2px solid rgb(171 143 143); */
-            /* box-sizing: border-box;  */
-            /* resize: vertical; */
-        }
-
-        h1 {
-            color: white;
-            text-align: center;
-            font-size: 42px;
-            /* background-color: red; */
-            display: block;
-        }
-
-        #reset {
-            width: 121px;
-            height: 35px;
-            font-size: 20px;
-            border-radius: 5px;
-            background-color: red;
-        }
-        #submit {
-            width: 100%;
-            height: 35px;
-            font-size: 20px;
-            border-radius: 5px;
-            background-color: green;
-            color: white;
-        }
-        /* style="background-image:url(Images/one.jpg); background-size:cover ;" */
-        </style>
 </head>
 
 <body>
