@@ -53,7 +53,7 @@
             </div>
             <br>
             <div>
-                <tr style="background-color: rgb(187, 187, 187);">
+                <tr style="backgroun-color: rgb(187, 187, 187);">
                     <td>
                         <label for="f name">Father Name</label>
                     </td>
