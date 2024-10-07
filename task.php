@@ -20,7 +20,7 @@
         <form method="post" action="tast_insert.php" >
             <table>
             <div>
-                <tr style="background-color: rgb(250, 240, 200);">
+                <tr style="background-color: rgb(250, 240, 220);">
                     <td>
                         <label for="fname">First Name:</label>
                     </td>
